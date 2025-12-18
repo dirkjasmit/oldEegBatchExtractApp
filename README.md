@@ -1,3 +1,4 @@
+# Do not use this anymore
 # EegBatchExtractApp
 
 A MATLAB appdesigner gui to perfrom EEG parameter extraction in batch mode.
